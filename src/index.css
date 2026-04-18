@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+section {
+  scroll-margin-top: 30px;
+}
